@@ -46,7 +46,7 @@ public class AutomacaoTeste {
 		
 		
 		
-		//jack.quit();
+		jack.quit();
 		
 		
 		
